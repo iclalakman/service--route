@@ -1,0 +1,3 @@
+C:/Users/sugra/OneDrive/Belgeler/Servis/cmake-build-debug/CMakeFiles/Servis.dir
+C:/Users/sugra/OneDrive/Belgeler/Servis/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/sugra/OneDrive/Belgeler/Servis/cmake-build-debug/CMakeFiles/rebuild_cache.dir
